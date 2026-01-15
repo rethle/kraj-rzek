@@ -2,7 +2,7 @@
 
 1. Informacje o RPGach w ogóle
 2. Kraj Rzek w pigułce
-	1. Teraźniejszość
+	1. [[Teraźniejszość]]
 	2. Krótka historia Kraju Rzek
 3. Sąsiedzi
 	1. Danmar
